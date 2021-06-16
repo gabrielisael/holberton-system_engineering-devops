@@ -1,4 +1,4 @@
 #!/bin/bash
 touch "\ * \\ '"Escuela Holberton" \' \\ * $ \? \ * \ * \ * \ * \ * :)"
-emacs Holberton School
+echo Holberton School
 
