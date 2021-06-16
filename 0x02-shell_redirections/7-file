@@ -1,2 +1,4 @@
-touch \ * \\ '"Escuela Holberton" \' \\ * $ \? \ * \ * \ * \ * \ * :)
+#!/bin/bash
+touch "\ * \\ '"Escuela Holberton" \' \\ * $ \? \ * \ * \ * \ * \ * :)"
 emacs Holberton School
+
