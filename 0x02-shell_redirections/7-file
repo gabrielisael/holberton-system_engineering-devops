@@ -1,4 +1,4 @@
 #!/bin/bash
-touch "\ * \\ '"Escuela Holberton" \' \\ * $ \? \ * \ * \ * \ * \ * :)"
+touch "\*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)"
 echo Holberton School
 
